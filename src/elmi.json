@@ -1,0 +1,15 @@
+{
+  "name": "Elmi",
+  "prefix": "elmi",
+  "uri": "http://example.com/elmi",
+  "xml": {
+    "tagAlias": "lowerCase"
+  },
+  "associations": [],
+  "types": [
+    {
+      "name": "CustomTask",
+      "superClass": ["bpmn:Task"]
+    }
+  ]
+}

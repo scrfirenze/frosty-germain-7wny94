@@ -1,0 +1,26 @@
+{
+  "name": "bpmn-js-starter",
+  "version": "1.0.0",
+  "description": null,
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@bpmn-io/properties-panel": "1.5.1",
+    "bpmn-js": "10.3.0",
+    "bpmn-js-properties-panel": "1.19.1",
+    "camunda-bpmn-moddle": "7.0.1",
+    "xml-formatter": "3.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "bpmn",
+    "bpmn-js",
+    "bpmn.io"
+  ]
+}
